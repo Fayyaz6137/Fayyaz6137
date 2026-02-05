@@ -34,7 +34,7 @@ Experience:
 </a>&nbsp;
 <img src="https://www.svgrepo.com/show/452155/android.svg" title="Android" width="47" height="47"/>
 </a>&nbsp;
-|&nbsp
+
 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="45" height="45"/>
 </a>&nbsp;
@@ -42,7 +42,7 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </a>&nbsp;
-|&nbsp
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
 </a>&nbsp;
@@ -63,7 +63,7 @@ Experience:
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
-|&nbsp
+
 <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="UiPath" width="45" height="45"/>
 </a>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png?20200511151950" title="Selenium" width="45" height="45"/>
