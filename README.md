@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-
-
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;Introduction</h2>
@@ -24,8 +21,7 @@ Fields of Interest:
    - Machine Learning
    - Software Engineering    
 ```
----  
-<br>
+
 <h2> 🛠️ &nbsp; Tech Stack</h2>
 <br>
 <p align="left">
@@ -54,7 +50,11 @@ Fields of Interest:
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
 </p>
-<br>
+
+---
+
+
+
 
 
 <p align="center">
