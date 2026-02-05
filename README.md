@@ -49,6 +49,8 @@ Fields of Interest:
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="Power BI" width="45" height="45"/>
+</a>&nbsp;
 </p>
 
 ---
