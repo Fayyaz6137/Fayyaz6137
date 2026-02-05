@@ -34,8 +34,7 @@ Experience:
 </a>&nbsp;
 <img src="https://www.svgrepo.com/show/452155/android.svg" title="Android" width="47" height="47"/>
 </a>&nbsp;
-<br>
-<br>
+|
 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="45" height="45"/>
 </a>&nbsp;
@@ -43,8 +42,7 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
 </a>&nbsp;
-<br>
-<br>
+|
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
 </a>&nbsp;
@@ -54,8 +52,7 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="47" height="47"/>
 </a>&nbsp;
-<br>
-<br>
+|
 
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" title="Apache Airflow" width="43" height="47"/>
 </a>&nbsp;
@@ -65,8 +62,7 @@ Experience:
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
-<br>
-<br>
+|
 
 <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="UiPath" width="45" height="45"/>
 </a>&nbsp;
