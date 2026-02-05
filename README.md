@@ -2,18 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fayyazhs107/" style="text-decoration: none;">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/fayyaz6137" style="text-decoration: none;">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
-  </a>
-</p>
 
 
 ---
