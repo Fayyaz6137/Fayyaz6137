@@ -25,15 +25,15 @@ Name: Fayyaz Hussain Shah
 Current Job: Data Science Student 
 Education:
 
-   - Post-Graduate Diploma in Data Science and AI (Ongoing)
-   - Bachelor's in Engineering
+   - MS Data Sciences - UNIMIB, Milan, Italy
+   - BS Computer Sciences - SZABIST, karachi, Pakistan
 
 Field of Interest:
   
-   - Data Analytics
    - Data Science
-   - Generative AI
    - Data Engineering
+   - Machine Learning
+   - Software Engineering    
 
 
 ```
