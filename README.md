@@ -18,7 +18,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;Introduction</h2>
 
 ```yaml
 Name: Fayyaz Hussain Shah
@@ -40,34 +40,13 @@ Fields of Interest:
   
 ---  
 
-<div style="padding: 10px;">
-  <h2 style="display: flex; align-items: center; gap: 10px;">
-    🏅 Certifications
-  </h2>
-  <div style="display: flex; overflow-x: auto; padding: 10px; gap: 5px;">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/A9326717DBE9099F?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Power%20BI%20Analyst.png?raw=true" alt="Power BI Data Analyst" width="150" height="150" >
-    </a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/88AD721B92031682?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Fabric%20Analytics%20Engineer.png?raw=true" alt="Fabric Analytics Engineer" width="150" height="150">
-    </a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/C7F615FB2245DDC0?sharingId" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Azure%20AI%20Fundamentals.png?raw=true" alt="Azure AI Fundamentals" width="150" height="150">
-    </a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/C5F666BB28476EEA?sharingId=EFFF3AAC6A464E1B" target="_blank">
-      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Azure%20Data%20Fundamentals.png?raw=true" alt="Azure Data Fundamentals" width="150" height="150">
-    </a>
-  </div>
-</div>
+
 <br>
-<h2> 🛠️ &nbsp; My Tech Toolkit</h2>
+<h2> 🛠️ &nbsp; Tech Toolkit</h2>
 <br>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="Apache Spark" width="47" height="47"/>
-</a>&nbsp;
+
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" title="Apache Airflow" width="43" height="47"/>
-</a>&nbsp;
-<img src="https://companieslogo.com/img/orig/TLND_BIG-bf3f1655.png?t=1720244494" title="Talend" width="65" height="43"/>
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
 </a>&nbsp;
@@ -83,8 +62,6 @@ Fields of Interest:
 </a>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="45" height="45"/>
 </a>&nbsp;
-<img src="https://images.icon-icons.com/2699/PNG/512/greenplum_logo_icon_170052.png" title="Greenplum" width="47" height="47"/>
-</a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft Sql Server" width="47" height="47"/>
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="45" height="45" />
@@ -94,18 +71,6 @@ Fields of Interest:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" width="45" height="45"/>
 </p>
 <br>
-<h2> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30" height="30"/>  &nbsp; LeetCode Progress </h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/munsifjaved00?theme=unicorn" alt="LeetCode Progress">
-</p>
-
-<p align="center">
-  <a>Leetcode Solutions here:</a>
-  </a>&nbsp;
-  <a href="https://github.com/munsifjaved/LeetCode-Solutions" style="text-decoration: none;">
-    <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=255&g=255&b=255" width="25" height="25" style="vertical-align: middle; margin-top: 3px;"/>
-  </a>
-</p>
 
 
 <p align="center">
