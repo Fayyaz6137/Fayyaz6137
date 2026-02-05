@@ -14,7 +14,7 @@ Education:
    - MS Data Sciences - UNIMIB, Milan, Italy
    - BS Computer Sciences - SZABIST, karachi, Pakistan
 
-Experiance:
+Experience:
   
    - Software Engineer (Data & Automations) - Daraz (Alibaba Group)
    - Automation Engineer - JS Bank Ltd
