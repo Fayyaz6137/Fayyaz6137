@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/fayyazhs107/" style="text-decoration: none;">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/munsifjaved" style="text-decoration: none;">
+  <a href="https://www.kaggle.com/fayyaz6137" style="text-decoration: none;">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
   </a>
 </p>
@@ -21,8 +21,8 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-Name: Munsif Jaweed
-Current Job: Data Engineer 
+Name: Fayyaz Hussain Shah
+Current Job: Data Science Student 
 Education:
 
    - Post-Graduate Diploma in Data Science and AI (Ongoing)
