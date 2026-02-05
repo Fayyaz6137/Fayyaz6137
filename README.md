@@ -28,7 +28,7 @@ Education:
    - MS Data Sciences - UNIMIB, Milan, Italy
    - BS Computer Sciences - SZABIST, karachi, Pakistan
 
-Field of Interest:
+Fields of Interest:
   
    - Data Science
    - Data Engineering
