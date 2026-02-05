@@ -42,7 +42,7 @@ Experience:
 </a>&nbsp;
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" title="Apache Airflow" width="43" height="47"/>
 </a>&nbsp;
-<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" title="AWS" width="43" height="47"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_ACwdQT0NMs_ptU8917_1THnLQqxK_u8Q&s" title="AWS" width="43" height="47"/>
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
 </a>&nbsp;
