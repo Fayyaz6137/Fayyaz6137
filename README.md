@@ -38,6 +38,8 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
 </a>&nbsp;
+<img src="https://www.svgrepo.com/show/331370/docker.svg" title="Docker" width="45" height="45"/>
+</a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="47" height="47"/>
 </a>&nbsp;
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" title="Apache Airflow" width="43" height="47"/>
