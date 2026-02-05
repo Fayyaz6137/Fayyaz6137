@@ -48,7 +48,9 @@ Experience:
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="Power BI" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="UiPath" width="45" height="45"/>
+</a>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png?20200511151950" title="Selenium" width="45" height="45"/>
 </a>&nbsp;
 </p>
 
