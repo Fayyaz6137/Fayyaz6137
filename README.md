@@ -30,10 +30,7 @@ Experience:
 </a>&nbsp;
 <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="45" height="45"/>
 </a>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" width="47" height="47"/>
-</a>&nbsp;
-<img src="https://www.svgrepo.com/show/452155/android.svg" title="Android" width="47" height="47"/>
-</a>&nbsp;
+
 
 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="45" height="45"/>
@@ -61,6 +58,10 @@ Experience:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
 </a>&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
+</a>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" width="47" height="47"/>
+</a>&nbsp;
+<img src="https://www.svgrepo.com/show/452155/android.svg" title="Android" width="47" height="47"/>
 </a>&nbsp;
 <br>
 <br>
