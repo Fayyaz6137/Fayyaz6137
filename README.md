@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/munsifjaved1/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/fayyazhs107/" style="text-decoration: none;">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/munsifjaved" style="text-decoration: none;">
