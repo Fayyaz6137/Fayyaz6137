@@ -8,18 +8,17 @@
 
 ```yaml
 Name: Fayyaz Hussain Shah
-Current Job: Data Science Student 
+
 Education:
 
    - MS Data Sciences - UNIMIB, Milan, Italy
    - BS Computer Sciences - SZABIST, karachi, Pakistan
 
-Fields of Interest:
+Experiance:
   
-   - Data Science
-   - Data Engineering
-   - Machine Learning
-   - Software Engineering    
+   - Software Engineer (Data & Automations) - Daraz (Alibaba Group)
+   - Automation Engineer - JS Bank Ltd
+   
 ```
 
 <h2> 🛠️ &nbsp; Tech Stack</h2>
