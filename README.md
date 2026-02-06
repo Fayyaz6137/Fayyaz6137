@@ -21,8 +21,8 @@ Experience:
    
 ```
 
-<h2> 🛠️ &nbsp; Tech Stack</h2>
-<br>
+<h2> 🛠️ &nbsp;Tech Stack</h2>
+
 <p align="left">
 
 
@@ -66,11 +66,28 @@ Experience:
 <br>
 <br>
 
+
 <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="UiPath" width="45" height="45"/>
 </a>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png?20200511151950" title="Selenium" width="45" height="45"/>
 </a>&nbsp;
 </p>
+
+
+
+<div style="padding: 10px;">
+  <h2 style="display: flex; align-items: center; gap: 10px;">
+    🏅 &nbsp;Certifications
+  </h2>
+  <div style="display: flex; overflow-x: auto; padding: 10px; gap: 5px;">
+    <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-ef72828a-44ee-49eb-816b-211dd7ffc5e3.jpg?v=1748790166000" target="_blank">
+      <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ef72828a-44ee-49eb-816b-211dd7ffc5e3.jpg?v=1748790166000" alt="Power BI Data Analyst" width="150" height="150" >
+    </a>
+    
+  </div>
+</div>
+<br>
+
 
 ---
 
