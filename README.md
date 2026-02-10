@@ -8,6 +8,7 @@
 
 ```yaml
 Name: Fayyaz Hussain Shah
+Email: fayyazhs107@gmail.com
 
 Education:
 
