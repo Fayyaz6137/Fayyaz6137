@@ -100,7 +100,7 @@ Experience:
 
 
 
-## 📋 Table of Contents
+## 📋 Side Projects
 | S No. | Project                          | Type                           | Description                                                       | Link                                                                                  |
 |-------|----------------------------------|--------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 1     |  GDP & Life Score ETL - Analysis | `Data Engineering`             | 200 + Countries GDP & Life Score Data ETL and Analysis            | https://github.com/Fayyaz6137/200-Plus-Countries-GDP-and-Life-Ladder-ETL-and-Analysis |
