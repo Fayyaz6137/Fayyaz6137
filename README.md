@@ -28,7 +28,7 @@ Experience:
 <p align="left">
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" title="Python" width="45" height="45"/>
 </a>&nbsp;
 
 
@@ -69,6 +69,11 @@ Experience:
 </a>&nbsp;
 <br>
 <br>
+
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="47" height="47"/>
+</a>&nbsp;
+<img src="https://www.svgrepo.com/show/373554/django.svg" width="47" height="47"/>
+</a>&nbsp;
 
 <img src="https://www.svgrepo.com/show/452155/android.svg" title="Android" width="47" height="47"/>
 </a>&nbsp;
