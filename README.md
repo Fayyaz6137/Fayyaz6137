@@ -64,7 +64,7 @@ Experience:
 </a>&nbsp;
 <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="45" height="45"/>
 </a>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" width="47" height="47"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png?20200511151950" title="Selenium" width="45" height="45"/>
 </a>&nbsp;
 <br>
 <br>
@@ -78,7 +78,7 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" title="UiPath" width="45" height="45"/>
 </a>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png?20200511151950" title="Selenium" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" width="47" height="47"/>
 </a>&nbsp;
 </p>
 
