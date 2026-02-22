@@ -19,24 +19,7 @@ Education:
 Experience:
   
    - Data Engineer - Alibaba Group (Daraz)
-   - Data Engineer - JS Bank Ltd
-
-About Me:
-  
-A meticulous Data Engineer with strong experience designing and building scalable, high-throughput data pipelines and ETL/ELT
-workflows processing millions of records daily for high-traffic, revenue-critical platforms.
-
-Specialized in Python, SQL, Spark, batch and streaming pipelines, Airflow, Kafka, and asynchronous processing. Hands-on with
-data ingestion, transformation, validation, schema design, and pipeline orchestration, delivering analytics-ready datasets and
-automating operational workflows to reduce manual effort by ~70%.
-
-Experienced with PostgreSQL, MySQL, MongoDB, RabbitMQ, Docker, CI/CD, and cloud platforms (AWS, Azure). Proven track record of
-optimizing data pipelines, improving throughput by up to 60%, and delivering secure, production-grade data systems that empower
-BI and analytics teams in Agile environments.
-
-Passionate about clean architecture, data modeling, and building resilient backend systems that transform raw data into
-actionable insights.
-   
+   - Data Engineer - JS Bank Ltd 
 ```
 
 <h2> 🛠️ &nbsp;Tech Stack</h2>
