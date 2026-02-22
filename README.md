@@ -34,8 +34,8 @@ Experienced with PostgreSQL, MySQL, MongoDB, RabbitMQ, Docker, CI/CD, and cloud 
 optimizing data pipelines, improving throughput by up to 60%, and delivering secure, production-grade data systems that empower
 BI and analytics teams in Agile environments.
 
-Passionate about clean architecture, data modeling, and building resilient backend systems that transform raw data into actionable
-insights.
+Passionate about clean architecture, data modeling, and building resilient backend systems that transform raw data into
+actionable insights.
    
 ```
 
