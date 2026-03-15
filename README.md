@@ -55,13 +55,13 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="47" height="47"/>
 </a>&nbsp;
-<br>
-<br>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_ACwdQT0NMs_ptU8917_1THnLQqxK_u8Q&s" title="AWS" width="43" height="47"/>
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
 </a>&nbsp;
-
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
 <img src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" width="45" height="45"/>
