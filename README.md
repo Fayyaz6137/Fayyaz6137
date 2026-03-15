@@ -55,6 +55,8 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="47" height="47"/>
 </a>&nbsp;
+<br>
+<br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_ACwdQT0NMs_ptU8917_1THnLQqxK_u8Q&s" title="AWS" width="43" height="47"/>
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
