@@ -95,24 +95,7 @@ Experience:
 
 
 
-<div style="padding: 10px;">
-  <h2 style="display: flex; align-items: center; gap: 10px;">
-    🏅 &nbsp;Certifications
-  </h2>
 
-  <div style="display: flex; overflow-x: auto; padding: 10px; gap: 5px;">
-    <a href="https://www.udemy.com/certificate/UC-ef72828a-44ee-49eb-816b-211dd7ffc5e3/" target="_blank">
-      <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ef72828a-44ee-49eb-816b-211dd7ffc5e3.jpg?v=1748790166000" alt="The Complete Python Developer" width="150" height="150" >
-    </a>
-</a>&nbsp;
-    <a href="https://www.udemy.com/certificate/UC-4baee847-3621-4763-9cf9-15698fb9d24b/">
-      <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4baee847-3621-4763-9cf9-15698fb9d24b.jpg?v=1738234286000" alt="Become A Product Manger" width="150" height="150" >
-    </a>
-
-
-  </div>
-
-</div>
 
 
 
