@@ -103,11 +103,7 @@ Experience:
       <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4baee845-3621-4763-9cf9-15698fb9d24b.jpg?v=1738234286000" alt="Become A Product Manger" width="150" height="150" >
     </a>
 
-
-    
   </div>
-
-
 
 </div>
 
