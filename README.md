@@ -59,7 +59,6 @@ Experience:
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="43" height="47"/>
 </a>&nbsp;
-<br>
 
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/>
 </a>&nbsp;
