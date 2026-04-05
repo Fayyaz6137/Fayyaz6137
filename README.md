@@ -19,6 +19,7 @@ Education:
 Experience:
   
    - Software Engineer - Alibaba Group (Daraz)
+   - Software Engineer - JS Bank Ltd
 ```
 
 <h2> 🛠️ &nbsp;Tech Stack</h2>
