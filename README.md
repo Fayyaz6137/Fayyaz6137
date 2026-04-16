@@ -30,10 +30,10 @@ Experience:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" title="Python" width="45" height="45"/>
 </a>&nbsp;
 
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45" style="display:inline-block;"/>
 </a>&nbsp;
 
-<img src="https://www.svgrepo.com/show/373554/django.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/373554/django.svg" width="45" height="45" style="display:inline-block;"/>
 </a>&nbsp;
 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" width="45" height="45"/>
