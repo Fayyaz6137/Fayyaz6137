@@ -18,8 +18,8 @@ Education:
 
 Experience:
   
-   - Software Engineer - Alibaba Group (Daraz)
-   - Software Engineer - JS Bank Ltd
+   - Software Engineer (Backend & Data) - Alibaba Group (Daraz)
+   - Software Engineer (Data & Automation) - JS Bank Ltd
 ```
 
 
